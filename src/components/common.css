@@ -1,0 +1,26 @@
+img {
+    height: 200px;
+    width: 200px;
+
+}
+
+h1 {
+    color: red;
+
+    /* font-weight: normal; */
+    text-align: center;
+
+
+}
+
+button {
+    padding: 5px;
+}
+
+span {
+    font-weight: bold;
+}
+
+h3 {
+    color: brown;
+}
